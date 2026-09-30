@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Master Profile — Job Tracker</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <nav class="nav">
+    <div class="brand">Job<span>Tracker</span></div>
+    <a class="tab" href="index.html">Tracker</a>
+    <a class="tab active" href="profile.html">Master Profile</a>
+    <div class="spacer"></div>
+    <div class="meta">source of truth for CVs &amp; applications</div>
+  </nav>
+
+  <div class="wrap" style="max-width: 980px">
+    <div class="card">
+      <h2>Completeness</h2>
+      <p class="sub">Everything the CV generator and application forms need. Red rows are still missing.</p>
+      <div class="progressbar"><i id="progressbar" style="width:0%"></i></div>
+      <div class="sub" id="progresslabel"></div>
+      <ul class="checks" id="checks"></ul>
+    </div>
+
+    <div class="card">
+      <h2>Contact &amp; CV identity</h2>
+      <p class="sub">Sensitive fields — saved only in this browser, never published to the repo.</p>
+      <div class="grid2" id="contactForm"></div>
+    </div>
+
+    <div class="card">
+      <h2>Application screening answers</h2>
+      <p class="sub">Auto-fills the usual portal questions: notice period, CTC, motivation.</p>
+      <div class="grid2" id="screenForm"></div>
+    </div>
+
+    <div class="card">
+      <h2>Career content</h2>
+      <p class="sub">Seeded from the shared copy; your edits stay in this browser until exported.</p>
+      <div id="careerForm"></div>
+    </div>
+
+    <div class="card">
+      <h2>Experience bullets</h2>
+      <p class="sub">Edit freely — one achievement per line. These feed every generated CV.</p>
+      <div id="expForm"></div>
+    </div>
+
+    <div class="toolbar" style="margin-top:4px">
+      <button class="btn primary" id="saveBtn">Save profile</button>
+      <button class="btn" id="exportBtn">Export profile.json</button>
+      <button class="btn" id="importBtn">Import</button>
+      <input type="file" id="importFile" accept=".json" style="display:none">
+      <span class="spacer"></span>
+    </div>
+    <p style="color:var(--muted);font-size:12.5px;margin-top:10px">
+      After exporting, tell ZCode “sync the profile” and attach/drop the file — the shared repo copy and the CV defaults get updated.
+    </p>
+  </div>
+
+  <script src="assets/cv.js"></script>
+  <script src="assets/profile.js"></script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CV — Print View</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body class="cvpage">
+  <div class="noprint" style="max-width:760px;margin:18px auto 0;padding:0 24px;display:flex;gap:10px;align-items:center">
+    <button class="btn primary" onclick="window.print()">Save as PDF</button>
+    <button class="btn" id="docxBtn">Download Word</button>
+    <a class="btn" href="index.html">← Back to tracker</a>
+    <span style="color:var(--muted);font-size:12.5px">PDF: use “Save as PDF” in the print dialog</span>
+  </div>
+  <div class="cvdoc" id="cvdoc"></div>
+
+  <script src="assets/cv.js"></script>
+  <script>
+    (async () => {
+      const params = new URLSearchParams(location.search);
+      const r = await fetch("data/jobs.json");
+      const data = await r.json();
+      const job = data.jobs.find((j) => j.id === params.get("job")) || null;
+      const m = await CV.buildCvModel(job);
+      const esc = (s) => String(s ?? "").replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+      const contactLine = [m.contact.phone, m.contact.email, m.contact.linkedin, m.contact.location].filter(Boolean)
+        .map((s) => esc(s)).join("  |  ");
+      document.getElementById("cvdoc").innerHTML = `
+        <p class="cvname">${esc(m.name)}</p>
+        <p class="cvheadline">${esc(job ? job.title + " — " + m.headline : m.headline)}</p>
+        ${m.contactIncomplete ? '<div class="cvwarn">Fill name / phone / email on the Profile page — this copy has placeholders.</div>' : ""}
+        ${contactLine ? `<p class="cvcontact">${contactLine}</p>` : ""}
+        <h3>Professional Summary</h3><p>${esc(m.summary)}</p>
+        <h3>Core Skills</h3>
+        ${m.skills.map((s) => `<div class="skillrow"><b>${esc(s.category)}:</b> ${esc(s.items)}</div>`).join("")}
+        <h3>Work Experience</h3>
+        ${m.experience.map((x) => `<div class="jobblock">
+          <div class="jobhead"><span class="dt">${esc(x.dates)}</span><b>${esc(x.role)}</b><br>
+          <span class="co">${esc(x.company)}</span></div>
+          <ul>${x.bullets.map((b) => `<li>${esc(b)}</li>`).join("")}</ul>
+        </div>`).join("")}
+        <h3>Education</h3>
+        ${m.education.map((e) => `<div class="jobhead"><span class="dt">${esc(e.dates)}</span><b>${esc(e.degree)}</b><br>
+          <span class="co">${esc(e.school)} (${esc(e.note)})</span></div>`).join("")}
+        <h3>Certifications</h3><ul>${m.certifications.map((c) => `<li>${esc(c)}</li>`).join("")}</ul>
+        <h3>Achievements</h3><ul>${m.achievements.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>
+        ${m.languages ? `<h3>Languages</h3><p>${esc(m.languages)}</p>` : ""}`;
+      document.getElementById("docxBtn").addEventListener("click", () => CV.downloadDocx(job));
+      if (params.get("print") === "1") setTimeout(() => window.print(), 600);
+    })();
+  </script>
+</body>
+</html>

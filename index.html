@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Job Search Tracker</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <nav class="nav">
+    <div class="brand">Job<span>Tracker</span></div>
+    <a class="tab active" href="index.html">Tracker</a>
+    <a class="tab" href="profile.html">Master Profile</a>
+    <div class="spacer"></div>
+    <div class="meta" id="generated"></div>
+  </nav>
+
+  <div class="wrap">
+    <div class="stats" id="stats"></div>
+
+    <div class="card">
+      <div class="toolbar">
+        <input id="globalSearch" placeholder="Search everything…" style="padding:8px 12px;border:1px solid var(--line);border-radius:8px;min-width:240px;font-size:14px">
+        <span class="count" id="count"></span>
+        <span class="spacer"></span>
+        <span class="chip" id="chip"><b>0</b> local edits · unsynced</span>
+        <button class="btn" id="exportEdits">Export edits</button>
+      </div>
+      <div class="filters" id="filters"></div>
+    </div>
+
+    <div class="tablewrap">
+      <table>
+        <thead>
+          <tr>
+            <th data-k="date_found">Date Found</th>
+            <th data-k="portal">Portal</th>
+            <th data-k="company">Company</th>
+            <th data-k="title">Role Title / Link</th>
+            <th data-k="exp_req">Exp Req</th>
+            <th data-k="work_mode">Work Mode</th>
+            <th data-k="score">Score ▼</th>
+            <th data-k="status">Status</th>
+            <th data-k="tailored_cv">Tailored CV</th>
+            <th data-k="notes">Notes</th>
+            <th>CV Downloads</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+
+    <p style="color:var(--muted);font-size:12.5px;margin-top:14px">
+      Status edits and CV contact details are stored in this browser only — use <b>Export edits</b> on the tracker and <b>Export</b> on the
+      profile page to hand changes back for syncing. Word/PDF CVs are generated on your device when clicked.
+    </p>
+  </div>
+
+  <script src="assets/cv.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
