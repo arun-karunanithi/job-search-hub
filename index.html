@@ -12,6 +12,7 @@
     <a class="tab active" href="index.html">Tracker</a>
     <a class="tab" href="profile.html">Master Profile</a>
     <div class="spacer"></div>
+    <button class="btn guide" id="portalGuide" style="margin-right:6px">Portal field guide</button>
     <div class="meta" id="generated"></div>
   </nav>
 
@@ -54,6 +55,13 @@
       Status edits and CV contact details are stored in this browser only — use <b>Export edits</b> on the tracker and <b>Export</b> on the
       profile page to hand changes back for syncing. Word/PDF CVs are generated on your device when clicked.
     </p>
+  </div>
+
+  <div class="modal-backdrop" id="modalBackdrop">
+    <div class="modal">
+      <header><h3 id="modalTitle"></h3><button class="x" id="modalClose" aria-label="Close">✕</button></header>
+      <div class="body" id="modalBody"></div>
+    </div>
   </div>
 
   <script src="assets/cv.js"></script>

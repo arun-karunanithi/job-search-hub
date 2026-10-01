@@ -1,0 +1,147 @@
+{
+  "ats_hints": {
+    "greenhouse.io": "Greenhouse",
+    "lever.co": "Lever",
+    "myworkdayjobs.com": "Workday",
+    "smartrecruiters.com": "SmartRecruiters",
+    "ashbyhq.com": "Ashby"
+  },
+  "portals": [
+    {
+      "id": "LinkedIn",
+      "name": "LinkedIn — Easy Apply & company pages",
+      "intro": "Easy Apply pre-fills from the LinkedIn profile, so keep the profile synced with the master CV first. Most fields are checkboxes; a few roles ask short screening questions.",
+      "fields": [
+        { "field": "First name / Last name", "value": "contact.name", "tip": "Auto-filled from the LinkedIn profile — check it matches the CV exactly." },
+        { "field": "Email / Phone", "value": "contact.email", "tip": "Auto-filled. Keep the phone on the profile in +91 format." },
+        { "field": "Resume / CV upload", "value": null, "tip": "Use the Word CV button on the job row — filename already contains the company + role. Easy Apply reuses the last upload unless you change it." },
+        { "field": "Years of relevant experience", "value": null, "tip": "Honest answer: 2 years 9 months full-time recruitment (Jan 2024–present) + 5-month internship." },
+        { "field": "Notice period / earliest start", "value": "screening.notice_period", "tip": "Answer from the profile value; don't undersell if negotiable — say 'X days, negotiable'." },
+        { "field": "Current / expected salary", "value": "screening.expected_ctc", "tip": "If both asked: current from profile, expected from profile. If optional and you'd rather discuss live, leave blank — but expect the question at screen." },
+        { "field": "Work authorisation / location", "value": "contact.location", "tip": "Indian citizen, based in Bangalore — already local, no relocation needed." },
+        { "field": "Cover letter / 'Why this job?' (optional)", "value": "screening.why_looking", "tip": "2–3 lines: the digest's why-it-matches note is the draft. Never generic." }
+      ],
+      "tips": [
+        "Apply within 24–48h of posting — recruiter inboxes sort by recency.",
+        "The profile headline should mirror the CV headline; recruiters search by it.",
+        "After applying, a short, specific follow-up message to the recruiter on LinkedIn raises response rates."
+      ]
+    },
+    {
+      "id": "Naukri",
+      "name": "Naukri — profile-based apply",
+      "intro": "Naukri applies mostly with one click using the profile resume. What matters is the profile itself: recruiters search Naukri's database by key skills and recency.",
+      "fields": [
+        { "field": "Resume on profile", "value": null, "tip": "Upload the master ATS Word CV once; replace it only when the master changes (not per job — Naukri recruiters see the profile CV)." },
+        { "field": "Key skills on profile", "value": null, "tip": "Mirror the CV Core Skills lines + the target role's words (talent acquisition, technical recruiter, campus hiring…). This is the search index." },
+        { "field": "Experience summary & current designation", "value": null, "tip": "'Talent Acquisition Specialist', total exp 2+ yrs — must match the CV." },
+        { "field": "Current CTC / Expected CTC (profile)", "value": "screening.expected_ctc", "tip": "Filled from profile values. Naukri recruiters filter by these bands — leaving expected blank can exclude you from searches." },
+        { "field": "Notice period (profile)", "value": "screening.notice_period", "tip": "Also a recruiter filter — keep it current." },
+        { "field": "Cover note (optional, per application)", "value": "screening.why_looking", "tip": "One line referencing the role; optional but distinguishes one-click applications." },
+        { "field": "Preferred location / employment type", "value": "contact.location", "tip": "Bangalore + 'Any' work mode keeps both onsite and hybrid results flowing." }
+      ],
+      "tips": [
+        "Naukri ranks active candidates: a small daily login + 2–3 applications keeps you 'recent'.",
+        "Update the profile's 'Resume headline' to the exact role family you want.",
+        "Turn on the job alert for 'talent acquisition jobs bangalore 2-4 years'."
+      ]
+    },
+    {
+      "id": "Greenhouse",
+      "name": "Greenhouse (company career pages)",
+      "intro": "Common for startups and product companies. Short manual form after the resume upload — this is where the tailored Word CV lands.",
+      "fields": [
+        { "field": "First name / Last name", "value": "contact.name", "tip": "Manual entry — fill from profile." },
+        { "field": "Email / Phone", "value": "contact.phone", "tip": "Phone in +91 format from the profile." },
+        { "field": "Resume (+ optional cover letter)", "value": null, "tip": "Upload the tailored Word CV from the job row. Cover letter optional — the 3-line note works." },
+        { "field": "LinkedIn / portfolio URL", "value": "contact.linkedin", "tip": "Paste the profile LinkedIn URL." },
+        { "field": "Work authorisation (yes/no)", "value": null, "tip": "Yes — Indian citizen, Bangalore-based." },
+        { "field": "Notice period question", "value": "screening.notice_period", "tip": "Direct value from profile." },
+        { "field": "Salary expectations", "value": "screening.expected_ctc", "tip": "Range from profile; if free-text, add '(negotiable for the right role)'." },
+        { "field": "'How did you hear about us?' / referral", "value": null, "tip": "'Job board' is fine; if you know someone inside, use their name — referrals jump the queue." },
+        { "field": "Custom screening questions", "value": null, "tip": "Usually experience yes/no + short answers. Use the digest's why-it-matches notes; answer everything — blanks read as no." }
+      ],
+      "tips": [
+        "One application per role; duplicate applications get merged and look careless.",
+        "Keep answers consistent with the CV — screeners cross-check titles and dates."
+      ]
+    },
+    {
+      "id": "Lever",
+      "name": "Lever (company career pages)",
+      "intro": "Slick one-page form used by many startups.",
+      "fields": [
+        { "field": "Full name", "value": "contact.name", "tip": "From profile." },
+        { "field": "Email / Phone", "value": "contact.email", "tip": "From profile." },
+        { "field": "Resume", "value": null, "tip": "Tailored Word CV from the job row." },
+        { "field": "Links (GitHub / portfolio / LinkedIn)", "value": "contact.linkedin", "tip": "LinkedIn URL at minimum." },
+        { "field": "Additional information / custom questions", "value": "screening.why_looking", "tip": "Short, specific, reference one thing the company does." }
+      ],
+      "tips": ["Lever sometimes sends an auto email with a follow-up link — watch the inbox for 24h after applying."]
+    },
+    {
+      "id": "Workday",
+      "name": "Workday (large enterprises)",
+      "intro": "The longest form. Worth doing once properly — Workday remembers your account across many enterprises that use it.",
+      "fields": [
+        { "field": "Account / sign-in", "value": "contact.email", "tip": "Create once with the profile email; reuse for every Workday employer." },
+        { "field": "Resume upload", "value": null, "tip": "Tailored Word CV. Workday parses it into fields — always proof-read the parsed result, parsing glitches are common." },
+        { "field": "Work history (manual)", "value": null, "tip": "Two entries: Aria Holding (07/2025–present) and DeltaX (01/2024–06/2025), titles exactly as on the CV." },
+        { "field": "Education (manual)", "value": null, "tip": "MSc Applied Psychology (HRD), Pondicherry University, 2021–2023, CGPA 9.29/10; BSc Psychology, St Joseph's College, 2018–2021." },
+        { "field": "Years of experience / questionnaire", "value": null, "tip": "2 years 9 months full-time (+ internship). Consistent numbers everywhere." },
+        { "field": "Desired salary", "value": "screening.expected_ctc", "tip": "Profile value. Some Workday forms require a number — give the range's floor." },
+        { "field": "Notice period / start date", "value": "screening.notice_period", "tip": "Profile value." },
+        { "field": "Voluntary diversity survey", "value": null, "tip": "Optional and anonymous — decline is fine, answer honestly if you choose to." }
+      ],
+      "tips": [
+        "Save drafts — Workday sessions time out.",
+        "Use the browser's autofill for name/email/phone; keep it synced with the profile page here."
+      ]
+    },
+    {
+      "id": "Indeed",
+      "name": "Indeed",
+      "intro": "Indeed applications either use the Indeed profile resume or redirect to the employer's own ATS (often Workday/Greenhouse — this guide still applies).",
+      "fields": [
+        { "field": "Indeed profile resume", "value": null, "tip": "Keep the master ATS CV as the Indeed profile resume." },
+        { "field": "Screener yes/no questions", "value": null, "tip": "Experience-based; answer honestly — the CV must back every 'yes'." },
+        { "field": "Cover letter (optional)", "value": "screening.why_looking", "tip": "Short specific note beats none on roles you care about." }
+      ],
+      "tips": ["If the button says 'Apply on company site', you'll land in Greenhouse/Workday — check the URL and use that section of this guide."]
+    },
+    {
+      "id": "Foundit",
+      "name": "Foundit (ex-Monster)",
+      "intro": "Profile-based, Naukri-style.",
+      "fields": [
+        { "field": "Profile resume", "value": null, "tip": "Master ATS CV." },
+        { "field": "Key skills", "value": null, "tip": "Mirror the CV Core Skills + role keywords — this is the searchable index." },
+        { "field": "Current / expected CTC", "value": "screening.expected_ctc", "tip": "From profile values." },
+        { "field": "Cover note (optional)", "value": "screening.why_looking", "tip": "One line, role-specific." }
+      ],
+      "tips": []
+    },
+    {
+      "id": "IIMJobs",
+      "name": "IIMJobs / Hirist",
+      "intro": "Profile-based with a short apply note; Hirist leans tech roles.",
+      "fields": [
+        { "field": "Profile resume & experience", "value": null, "tip": "Master ATS CV; experience fields matching the CV." },
+        { "field": "Apply note (optional)", "value": "screening.why_looking", "tip": "2 lines tying recruitment metrics to the role." },
+        { "field": "CTC / notice fields", "value": "screening.notice_period", "tip": "From profile." }
+      ],
+      "tips": []
+    },
+    {
+      "id": "Instahyre",
+      "name": "Instahyre / Cutshort (login-gated)",
+      "intro": "Not apply-driven: recruiters search the database and reach out. The 'application' is a complete profile.",
+      "fields": [
+        { "field": "Complete profile + CV", "value": null, "tip": "Master ATS CV; every section filled — completeness drives search ranking." },
+        { "field": "Expected CTC & notice", "value": "screening.expected_ctc", "tip": "From profile; both platforms surface 'active' candidates." },
+        { "field": "Interests / preferences", "value": null, "tip": "Set: Bangalore, recruiter-family roles, hybrid/remote-all." }
+      ],
+      "tips": ["These need a one-time login setup together in a browser session — the daily sweep cannot apply here."]
+    }
+  ]
+}

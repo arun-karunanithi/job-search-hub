@@ -61,9 +61,22 @@
         if (edits.experience[e.company]) e.bullets = edits.experience[e.company].slice();
       }
     }
-    // deterministic light tailoring when generated for a specific job:
-    // 1) lead the headline with the target role family, 2) promote skills whose keywords appear in the title/notes
-    if (job) {
+    // JD-tailored variant (written by the daily sweep from the actual job description): wins for
+    // summary/headline (already applied above), per-company bullet selection/order, and skills order.
+    if (variant.bullets) {
+      for (const e of model.experience) {
+        if (variant.bullets[e.company]) e.bullets = variant.bullets[e.company].slice();
+      }
+    }
+    if (variant.skills && variant.skills.length) {
+      const order = new Map(variant.skills.map((c, i) => [c.toLowerCase(), i]));
+      model.skills = model.skills.slice().sort(
+        (a, b) => (order.get(a.category.toLowerCase()) ?? 99) - (order.get(b.category.toLowerCase()) ?? 99)
+      );
+    }
+    // basic-template fallback when no variant exists: lead with headline-family keywords from the job
+    // title/notes — used only when the sweep couldn't fetch the JD to write a real variant.
+    if (job && !variant.bullets && !variant.skills) {
       const hay = (job.title + " " + (job.notes || "")).toLowerCase();
       const kw = (s) => s.toLowerCase().split(/[^a-z]+/).some((w) => w.length > 3 && hay.includes(w));
       model.skills = model.skills.slice().sort((a, b) => (kw(b.category) ? 1 : 0) - (kw(a.category) ? 1 : 0));

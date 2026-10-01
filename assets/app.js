@@ -115,6 +115,7 @@
         <td class="actions">
           <button class="btn small" data-act="docx">Word CV</button>
           <button class="btn small" data-act="pdf">PDF CV</button>
+          <button class="btn small guide" data-act="fields" title="What the application form will ask and what to fill">Fields</button>
         </td>`;
       tr.querySelector("select").addEventListener("change", (e) => {
         CV.setStatus(j.id, e.target.value);
@@ -131,8 +132,80 @@
       tr.querySelector('[data-act="pdf"]').addEventListener("click", () => {
         window.open("cv.html?job=" + encodeURIComponent(j.id) + "&print=1", "_blank");
       });
+      tr.querySelector('[data-act="fields"]').addEventListener("click", () => openFieldGuide(detectPortalId(j)));
       tb.appendChild(tr);
     }
+  }
+
+  /* ---------- application field guide (pop-up) ---------- */
+  let guide = null;
+
+  function detectPortalId(job) {
+    const url = (job.url || "").toLowerCase();
+    if (guide) {
+      for (const [host, ats] of Object.entries(guide.ats_hints || {})) {
+        if (url.includes(host)) return ats;
+      }
+    }
+    const p = (job.portal || "").toLowerCase();
+    if (p.includes("iimjobs") || p.includes("hirist")) return "IIMJobs";
+    if (p.includes("foundit")) return "Foundit";
+    if (p.includes("indeed")) return "Indeed";
+    if (p.includes("naukri")) return "Naukri";
+    if (p.includes("linkedin")) return "LinkedIn";
+    return "LinkedIn";
+  }
+
+  function resolveValue(key) {
+    if (!key) return { missing: false, text: "" };
+    const [grp, field] = key.split(".");
+    const src = grp === "contact" ? CV.getContact() : CV.getScreening();
+    const v = src ? src[field] : "";
+    return v ? { missing: false, text: v } : { missing: true, text: "" };
+  }
+
+  function portalModalHTML(p) {
+    const contact = CV.getContact(), scr = CV.getScreening();
+    const nameBits = contact.name ? contact.name.split(" ") : [];
+    const rows = p.fields.map((f) => {
+      const v = resolveValue(f.value);
+      let fill;
+      if (!f.value) fill = '<span class="tip">—</span>';
+      else if (v.missing) fill = `<span class="fillval missing" title="Click to open the profile page">⚠ fill on Profile page</span>`;
+      else {
+        let text = v.text;
+        const hasFirst = f.field.includes("First name"), hasLast = f.field.includes("Last name");
+        if (hasFirst && hasLast) text = contact.name;            // combined name field → full name
+        else if (hasFirst && nameBits[0]) text = nameBits[0];
+        else if (hasLast && nameBits.length > 1) text = nameBits.slice(1).join(" ");
+        fill = `<span class="fillval">${esc(text)}</span>`;
+      }
+      return `<tr><td>${esc(f.field)}</td><td style="width:190px">${fill}</td><td class="tip">${esc(f.tip || "")}</td></tr>`;
+    }).join("");
+    const tips = (p.tips || []).length
+      ? `<div class="tips"><h4>Worth knowing</h4><ul>${p.tips.map((t) => `<li>${esc(t)}</li>`).join("")}</ul></div>` : "";
+    const intro = p.intro
+      ? `<p class="intro">${esc(p.intro)}</p>` : "";
+    return `${intro}<table class="fields"><thead><tr><th>Form field</th><th>What to fill</th><th>Tip</th></tr></thead><tbody>${rows}</tbody></table>${tips}`;
+  }
+
+  function openFieldGuide(portalId) {
+    const p = guide.portals.find((x) => x.id === portalId) || guide.portals[0];
+    const back = $("#modalBackdrop");
+    $("#modalTitle").innerHTML = `Applying via ${esc(p.name)}`;
+    $("#modalBody").innerHTML = portalModalHTML(p);
+    back.classList.add("open");
+    $("#modalBody").querySelectorAll(".fillval.missing").forEach((el) =>
+      el.addEventListener("click", () => { location.href = "profile.html"; }));
+  }
+
+  function openPortalPicker() {
+    const back = $("#modalBackdrop");
+    $("#modalTitle").textContent = "Portal field guide";
+    $("#modalBody").innerHTML = `<p class="intro">Pick where you're applying — every form field you'll meet, and what goes in it (values come from your profile).</p>
+      <div class="portalpick">${guide.portals.map((p) => `<button data-p="${esc(p.id)}">${esc(p.name.split(" (")[0])}</button>`).join("")}</div>`;
+    $("#modalBody").querySelectorAll("[data-p]").forEach((b) => b.addEventListener("click", () => openFieldGuide(b.dataset.p)));
+    back.classList.add("open");
   }
 
   function updateChip() {
@@ -176,6 +249,12 @@
       CV.triggerDownload(new Blob([JSON.stringify({ status_edits: edits }, null, 2)], { type: "application/json" }), "status-edits.json");
       CV.toast("Downloaded — send this file/paste it to ZCode to sync back");
     });
+    $("#portalGuide").addEventListener("click", openPortalPicker);
+    $("#modalClose").addEventListener("click", () => $("#modalBackdrop").classList.remove("open"));
+    $("#modalBackdrop").addEventListener("click", (e) => { if (e.target.id === "modalBackdrop") e.target.classList.remove("open"); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#modalBackdrop").classList.remove("open"); });
+    const gr = await fetch("data/apply-fields.json");
+    guide = await gr.json();
     updateChip();
     apply();
   }
