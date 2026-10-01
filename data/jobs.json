@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30",
+ "generated": "2026-10-01",
  "jobs": [
   {
    "id": "4471288672",
@@ -2270,6 +2270,284 @@
    "status": "New",
    "tailored_cv": "",
    "notes": "BROWSE PAGE for triage"
+  },
+  {
+   "id": "4473743547",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "InsighTek Global",
+   "title": "Talent Acquisition Specialist",
+   "exp_req": "",
+   "work_mode": "onsite",
+   "score": 84,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-specialist-at-insightek-global-4473743547",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Entry-level full-life-cycle tech recruiting, ATS + job boards; posted 17h; 200+ applicants — apply fast; Devanahalli onsite",
+   "cv": {
+    "headline": "Talent Acquisition Specialist | Full-Life-Cycle Technology Recruitment | Sourcing, Screening & Offers (India, GCC, APAC)",
+    "summary": "Full-life-cycle technology recruiter with 2+ years hiring IT, SaaS, Product and Engineering roles across India, GCC and APAC. Multi-channel sourcing via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist and X-Ray/Boolean search, with candidate pipelines and metrics tracked in ATS. Issues 12+ offer letters a month; improved time-to-hire by 10% and offer-to-join ratio by 15%; MSc Applied Psychology (HRD).",
+    "bullets": {
+     "Aria Holding": [
+      "Own end-to-end recruitment for IT, SaaS, Product, Engineering, Marketing, Sales, Construction, and Manufacturing roles across India, GCC, and APAC markets.",
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers to finalize requirements and accelerate decisions."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Analytics, Marketing, Growth & Sales, Accounting, and Analytics roles.",
+      "Executed 200+ campus drives across India focused on tech, product, and design hiring; built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction (LinkedIn, Internshala)."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Recruitment Scope",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "Full-life-cycle recruiting",
+     "IT roles",
+     "ATS",
+     "Job boards",
+     "Resume screening",
+     "Initial interviews",
+     "Candidate experience",
+     "Talent pipeline data"
+    ]
+   }
+  },
+  {
+   "id": "4472651374",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "Technoculture Research",
+   "title": "HR Recruiter in Bangaluru",
+   "exp_req": "",
+   "work_mode": "onsite",
+   "score": 72,
+   "url": "https://in.linkedin.com/jobs/view/hr-recruiter-in-bangaluru-at-technoculture-research-4472651374",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Generic end-to-end recruitment, LinkedIn/portals/referrals/headhunting; posted 4h; Devanahalli; 51 applicants",
+   "cv": {
+    "headline": "HR Recruiter | End-to-End Recruitment from Sourcing to Selection | LinkedIn, Job Portals & Referrals",
+    "summary": "Recruiter with 2+ years of end-to-end recruitment — sourcing, screening, shortlisting, interviewing and selection — for tech and non-tech profiles. Sources through LinkedIn, Naukri, Instahyre, job portals, referrals and direct headhunting, and has conducted 500+ interviews while issuing 12+ offer letters a month. MSc Applied Psychology (HRD).",
+    "bullets": {
+     "Aria Holding": [
+      "Own end-to-end recruitment for Marketing, Product, Sales, IT, SaaS, Construction, Engineering & Manufacturing roles across India, GCC, and APAC markets.",
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers to finalize requirements."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting, and Analytics roles.",
+      "Executed 200+ campus drives across India focused on tech, product, and design hiring; built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction (LinkedIn, Internshala)."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Recruitment Scope",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "End-to-end recruitment",
+     "Sourcing",
+     "Screening",
+     "Shortlisting",
+     "Interviewing",
+     "LinkedIn",
+     "Job portals",
+     "Headhunting"
+    ]
+   }
+  },
+  {
+   "id": "4472184148",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "Amazon (AWS)",
+   "title": "GSS - Tech Sourcing Recruiter, WWAS TA C Sourcing",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 66,
+   "url": "https://in.linkedin.com/jobs/view/gss-tech-sourcing-recruiter-aws-wwas-ta-c-sourcing-at-amazon-web-services-aws-4472184148",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Tech SOURCING recruiter — sourcing is her strongest card; 7 parallel req IDs posted 4-16h ago; tailoring deferred to next sweep",
+   "cv": null
+  },
+  {
+   "id": "4472694049",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "White Gold Money",
+   "title": "Senior Talent Acquisition Executive",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 62,
+   "url": "https://in.linkedin.com/jobs/view/senior-talent-acquisition-executive-at-white-gold-money-4472694049",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Senior-marked; fintech; posted 43min; template fallback this sweep",
+   "cv": null
+  },
+  {
+   "id": "4472384994",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "Dexian India",
+   "title": "Senior Technical Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 60,
+   "url": "https://in.linkedin.com/jobs/view/senior-technical-recruiter-at-dexian-india-4472384994",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Senior-marked; staffing major; posted 26min; template fallback this sweep",
+   "cv": null
+  },
+  {
+   "id": "4472157684",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "Okay Done",
+   "title": "Talent Acquisition, HR & Founder's Office",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 58,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-hr-founder-s-office-at-okay-done-4472157684",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Mixed TA+HR founding role; posted 18h; template fallback this sweep",
+   "cv": null
+  },
+  {
+   "id": "4472328203",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "BitGo",
+   "title": "Senior Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 58,
+   "url": "https://in.linkedin.com/jobs/view/senior-recruiter-at-bitgo-4472328203",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Senior-marked; crypto infra brand; posted 11h; template fallback this sweep",
+   "cv": null
+  },
+  {
+   "id": "4473933593",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "AtkinsRéalis",
+   "title": "Advisor - Talent Sourcing (North America)",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 56,
+   "url": "https://in.linkedin.com/jobs/view/advisor-talent-sourcing-north-america-at-atkinsr%C3%A9alis-4473933593",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Advisor-level; NA market sourcing; posted 10h; template fallback this sweep",
+   "cv": null
+  },
+  {
+   "id": "4472344465",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "BayOne Solutions",
+   "title": "Corporate Recruiter (US Staffing)",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 54,
+   "url": "https://in.linkedin.com/jobs/view/corporate-recruiter-us-staffing-at-bayone-solutions-4472344465",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "US staffing; posted 9h; template fallback this sweep",
+   "cv": null
+  },
+  {
+   "id": "4472166641",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "Heidrick & Struggles",
+   "title": "Executive Search Senior Associate",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 54,
+   "url": "https://in.linkedin.com/jobs/view/executive-search-senior-associate-at-heidrick-struggles-4472166641",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Exec-search senior associate; research-heavy; posted 17h; template fallback this sweep",
+   "cv": null
+  },
+  {
+   "id": "4473736708",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "Weekday (YC W21)",
+   "title": "HR Executive",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 52,
+   "url": "https://in.linkedin.com/jobs/view/hr-executive-at-weekday-yc-w21-4473736708",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Generalist HR exec at YC startup; posted 19h; template fallback this sweep",
+   "cv": null
+  },
+  {
+   "id": "4455908041",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "Amazon",
+   "title": "Workforce Staffing Specialist, WFS APAC",
+   "exp_req": "5+ yrs",
+   "work_mode": "unknown",
+   "score": 50,
+   "url": "https://in.linkedin.com/jobs/view/workforce-staffing-specialist-wfs-apac-at-amazon-4455908041",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "JD read: 5+ yrs + vendor/partnership program mgmt flavor, not hands-on recruiting — stretch",
+   "cv": null
+  },
+  {
+   "id": "4471245605",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "Duruper",
+   "title": "HR Officer",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 48,
+   "url": "https://in.linkedin.com/jobs/view/hr-officer-at-duruper-4471245605",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Generalist; Duruper's TA role already tracked separately; posted 1h",
+   "cv": null
+  },
+  {
+   "id": "4473916985",
+   "date_found": "2026-10-01",
+   "portal": "LinkedIn",
+   "company": "Vertisystem (A MOURI Tech Company)",
+   "title": "Recruiter",
+   "exp_req": "6+ yrs",
+   "work_mode": "hybrid",
+   "score": 45,
+   "url": "https://in.linkedin.com/jobs/view/recruiter-at-vertisystem-a-mouri-tech-company-4473916985",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "JD read: 6+ yrs mid-senior, ₹10-16 LPA, advisor-to-VP stakeholders — big stretch at 2.7 yrs; hybrid 2d/wk",
+   "cv": null
   }
  ]
 }
