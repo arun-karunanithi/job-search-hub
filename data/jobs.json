@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01",
+ "generated": "2026-10-05",
  "jobs": [
   {
    "id": "4471288672",
@@ -2547,6 +2547,549 @@
    "status": "New",
    "tailored_cv": "",
    "notes": "JD read: 6+ yrs mid-senior, ₹10-16 LPA, advisor-to-VP stakeholders — big stretch at 2.7 yrs; hybrid 2d/wk",
+   "cv": null
+  },
+  {
+   "id": "4473482754",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "AbleCredit",
+   "title": "Talent Acquisition Specialist",
+   "exp_req": "2+ yrs",
+   "work_mode": "unknown",
+   "score": 84,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-specialist-at-ablecredit-genai-infra-for-bfsi-4473482754",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "GenAI/BFSI startup; JD: IT + non-IT end-to-end, portals/referrals/partners, ATS — direct fit; posted 12h, 126 applicants",
+   "cv": {
+    "headline": "Talent Acquisition Specialist | IT & Non-IT End-to-End Recruitment for High-Growth Companies | India, GCC, APAC",
+    "summary": "Recruiter with 2+ years owning IT and non-IT hiring end-to-end in fast-paced environments — Engineering, Product, IT and SaaS alongside Sales, Marketing, Accounting and Analytics. Multi-channel sourcing via job portals, referrals and recruitment partners; screens on fit, compensation and notice period; drives offers, negotiation and closures with 12+ offer letters a month, all tracked in ATS. Improved time-to-hire by 10% and offer-to-join ratio by 15%; MSc Applied Psychology (HRD).",
+    "bullets": {
+     "Aria Holding": [
+      "Own end-to-end recruitment for IT, SaaS, Product, Engineering, Marketing, Sales, Construction, and Manufacturing roles across India, GCC, and APAC markets — intake to closure.",
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers on requirements and timelines."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Analytics, Marketing, Growth & Sales, and Accounting roles.",
+      "Executed 200+ campus drives across India focused on tech, product, and design hiring; built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction (LinkedIn, Internshala)."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Recruitment Scope",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "End-to-end recruitment",
+     "IT & non-IT hiring",
+     "High-growth startup",
+     "Job portals",
+     "Referrals",
+     "Candidate screening",
+     "Offer negotiation",
+     "ATS"
+    ]
+   }
+  },
+  {
+   "id": "4475021164",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "FRND",
+   "title": "Talent Acquisition Specialist",
+   "exp_req": "2-3 yrs",
+   "work_mode": "onsite",
+   "score": 78,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-specialist-at-frnd-4475021164",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "JD: full lifecycle, multi-function, metrics; CAUTION: 6-day work week (1st & 3rd Sat working); 200+ applicants",
+   "cv": {
+    "headline": "Talent Acquisition Specialist | Full Recruitment Lifecycle, Metrics-Driven | Tech, Product & Business Roles",
+    "summary": "Full-cycle recruiter in the 2–3 years band — requirement gathering, sourcing, screening, interview coordination, offer negotiation and onboarding handover — across Tech, Product, Marketing, Growth & Sales functions. Tracks hiring metrics (time-to-hire −10%, offer-to-join +15%, source effectiveness) while managing multiple concurrent roles in fast-paced product companies; issues 12+ offer letters a month; MSc Applied Psychology (HRD).",
+    "bullets": {
+     "Aria Holding": [
+      "Own end-to-end recruitment for Marketing, Product, Sales, IT, SaaS, Construction, Engineering & Manufacturing roles across India, GCC, and APAC markets.",
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers on requirements and timelines."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting, and Analytics roles.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement.",
+      "Executed 200+ campus drives across India focused on tech, product, and design hiring; built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction (LinkedIn, Internshala)."
+     ]
+    },
+    "skills": [
+     "Recruitment Scope",
+     "Sourcing & Screening",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "Full recruitment lifecycle",
+     "Sourcing strategies",
+     "Candidate experience",
+     "Time-to-hire",
+     "Offer acceptance",
+     "Stakeholder management",
+     "Talent pipelines",
+     "Multiple concurrent roles"
+    ]
+   }
+  },
+  {
+   "id": "4472591080",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "LH2 AI Labs",
+   "title": "Talent Acquisition Specialist",
+   "exp_req": "2 yrs",
+   "work_mode": "onsite",
+   "score": 78,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-specialist-at-lh2-ai-labs-4472591080",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "AI startup; JD: full-cycle with founders, JD-writing, trackers; onsite Bangalore 5d/wk; 90 applicants",
+   "cv": {
+    "headline": "Talent Acquisition Specialist | Full-Cycle Startup Hiring with Founders & Hiring Managers | Tech + Commercial Roles",
+    "summary": "Full-cycle recruiter with 2+ years partnering directly with hiring managers and leadership to scope roles, define evaluation criteria and run tight pipelines across technical and commercial functions — Engineering, Product, Marketing, Sales and Analytics. Sources via LinkedIn, job boards and referrals; maintains hiring trackers and past-applicant pipelines in ATS; issues 12+ offer letters a month; MSc Applied Psychology (HRD).",
+    "bullets": {
+     "Aria Holding": [
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers to finalize requirements and accelerate decisions.",
+      "Own end-to-end recruitment for IT, SaaS, Product, Engineering, Marketing, Sales, Construction, and Manufacturing roles across India, GCC, and APAC markets.",
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Analytics, Marketing, Growth & Sales, and Accounting roles.",
+      "Executed 200+ campus drives across India focused on tech, product, and design hiring; built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement."
+     ],
+     "SkillForge": [
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction (LinkedIn, Internshala).",
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Recruitment Scope",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "Full-cycle recruiting",
+     "Role scoping",
+     "Hiring manager partnership",
+     "Talent pipelines",
+     "Job boards",
+     "Referrals",
+     "Time-to-fill",
+     "Hiring trackers"
+    ]
+   }
+  },
+  {
+   "id": "4473112421",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Deloitte",
+   "title": "Technical Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 70,
+   "url": "https://in.linkedin.com/jobs/view/technical-recruiter-at-deloitte-4473112421",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Associate level; sourcing active+passive, dashboards, offers; JD prefers MBA(HR) — she has MSc Applied Psychology (HRD), flag in application; 200+ applicants",
+   "cv": {
+    "headline": "Technical Recruiter | End-to-End Tech Hiring, Trackers & Offer Management | Global Delivery Environment",
+    "summary": "Technical recruiter with 2+ years of end-to-end hiring and recruitment tracking — sources active and passive candidates via professional networks and job portals, coordinates selection, negotiates offers, issues offer letters and keeps candidates engaged through to joining. Maintains recruitment trackers and dashboards in MS Excel and ATS; improved time-to-hire by 10% and offer-to-join ratio by 15%; MSc Applied Psychology (HRD specialization).",
+    "bullets": {
+     "Aria Holding": [
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Own end-to-end recruitment for IT, SaaS, Product, Engineering, Marketing, Sales, Construction, and Manufacturing roles across India, GCC, and APAC markets.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers to finalize requirements and accelerate decisions."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Analytics, Marketing, Growth & Sales, and Accounting roles.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement.",
+      "Managed HRMS (Keka), interview coordination, onboarding, and vendor management alongside core admin operations."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Tools & Systems",
+     "Recruitment Scope"
+    ],
+    "keywords": [
+     "Recruitment dashboards",
+     "Passive sourcing",
+     "Offer negotiation",
+     "Candidate engagement",
+     "Trackers and reports",
+     "Stakeholder management",
+     "Professional networks",
+     "Interview coordination"
+    ]
+   }
+  },
+  {
+   "id": "4472579711",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Photon",
+   "title": "Talent Acquisition Executive",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 68,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-executive-at-photon-4472579711",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Digital engineering major; posted 3d; tailoring deferred to next sweep",
+   "cv": null
+  },
+  {
+   "id": "4472911463",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Praja App",
+   "title": "HR Recruiter Bangalore (Bulk Hiring – Tele-Sales)",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 68,
+   "url": "https://in.linkedin.com/jobs/view/hr-recruiter-bangalore-bulk-hiring-%E2%80%93-tele-sales-at-praja-app-4472911463",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Volume tele-sales hiring ≈ her SkillForge BD/inside-sales recruiting + 500+ interviews; tailoring deferred to next sweep",
+   "cv": null
+  },
+  {
+   "id": "4474735394",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Three Across",
+   "title": "Sr. Analyst / Analyst – Talent Acquisition (Technology)",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 66,
+   "url": "https://in.linkedin.com/jobs/view/sr-analyst-analyst-%E2%80%93-talent-acquisition-technology-bangalore-pune-at-three-across-4474735394",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Analyst band, Bangalore/Pune; posted 2d; tailoring deferred",
+   "cv": null
+  },
+  {
+   "id": "4474302765",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Gushwork",
+   "title": "Talent Acquisition Partner",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 64,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-partner-at-gushwork-4474302765",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Posted 3d; tailoring deferred",
+   "cv": null
+  },
+  {
+   "id": "4465113093",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Glean",
+   "title": "Talent Sourcer, GTM (Contract)",
+   "exp_req": "2-3 yrs",
+   "work_mode": "remote",
+   "score": 62,
+   "url": "https://in.linkedin.com/jobs/view/talent-sourcer-gtm-contract-at-glean-4465113093",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Sourcing-led = her strongest card; LinkedIn Recruiter + ATS; CAUTION: 6-mo contract + EST night shift 5:30PM-2:30AM; no US-market claims made in CV",
+   "cv": {
+    "headline": "Talent Sourcer | Multi-Channel Sourcing & Pipeline Building | LinkedIn Recruiter, ATS & Referrals",
+    "summary": "Sourcer-recruiter with 2+ years of multi-channel sourcing — LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, X-Ray/Boolean search and referrals — building and maintaining candidate pipelines across tech and commercial roles, tracked end-to-end in ATS. Has conducted 500+ candidate interviews and built both lateral and campus pipelines; MSc Applied Psychology (HRD).",
+    "bullets": {
+     "Aria Holding": [
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Own end-to-end recruitment for IT, SaaS, Product, Engineering, Marketing, Sales, Construction, and Manufacturing roles across India, GCC, and APAC markets.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers on sourcing criteria."
+     ],
+     "DeltaX": [
+      "Executed 200+ campus drives across India focused on tech, product, and design hiring; built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs.",
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Analytics, Marketing, Growth & Sales, and Accounting roles."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction (LinkedIn, Internshala)."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Recruitment Scope",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "Sourcing",
+     "Talent pipelines",
+     "LinkedIn Recruiter",
+     "ATS",
+     "Resume review",
+     "Candidate outreach",
+     "Boolean/X-Ray search",
+     "Pipeline tracking"
+    ]
+   }
+  },
+  {
+   "id": "4473844388",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Basil Hotels & Hospitality",
+   "title": "HR Recruiter - Production Factory",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 62,
+   "url": "https://in.linkedin.com/jobs/view/hr-recruiter-production-factory-at-basil-hotels-hospitality-services-4473844388",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Volume/factory hiring; posted 1d",
+   "cv": null
+  },
+  {
+   "id": "4474151389",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "HappieHire",
+   "title": "Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 60,
+   "url": "https://in.linkedin.com/jobs/view/recruiter-at-happiehire-4474151389",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Small shop; posted 3d",
+   "cv": null
+  },
+  {
+   "id": "4474790241",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Bee Talent Solutions",
+   "title": "Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 60,
+   "url": "https://in.linkedin.com/jobs/view/recruiter-at-bee-talent-solutions-4474790241",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Posted 2d",
+   "cv": null
+  },
+  {
+   "id": "4474219007",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Delphie Consulting",
+   "title": "Executive Recruiting Specialist",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 60,
+   "url": "https://in.linkedin.com/jobs/view/executive-recruiting-specialist-at-delphie-consulting-services-4474219007",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Exec-search flavor; posted 15h",
+   "cv": null
+  },
+  {
+   "id": "4462401136",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Infineon Technologies",
+   "title": "Staff Specialist Talent Attraction",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 58,
+   "url": "https://in.linkedin.com/jobs/view/staff-specialist-talent-attraction-at-infineon-technologies-4462401136",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Staff-level specialist; semiconductor MNC; posted 2d",
+   "cv": null
+  },
+  {
+   "id": "4472794137",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "AtkinsRéalis",
+   "title": "Advisor II - Talent Acquisition (Early Careers - UK)",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 58,
+   "url": "https://in.linkedin.com/jobs/view/advisor-ii-talent-acquisition-early-careers-uk-at-atkinsr%C3%A9alis-4472794137",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "UK early-careers = campus angle (her 200+ drives); Advisor II level; posted 14h",
+   "cv": null
+  },
+  {
+   "id": "4475390718",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "AMS International UAE",
+   "title": "Remote Recruiter : Luxury Retail - 3 days a week",
+   "exp_req": "",
+   "work_mode": "remote",
+   "score": 56,
+   "url": "https://in.linkedin.com/jobs/view/remote-recruiter-luxury-retail-3-days-a-week-at-ams-international-uae-4475390718",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "GCC angle (UAE RPO); 3-days/week part-time; posted 13h",
+   "cv": null
+  },
+  {
+   "id": "4474303264",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Zyoin Group",
+   "title": "Senior Technical Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 56,
+   "url": "https://in.linkedin.com/jobs/view/senior-technical-recruiter-at-zyoin-group-4474303264",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Senior-marked; posted 3d",
+   "cv": null
+  },
+  {
+   "id": "4472833216",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Employvision",
+   "title": "Senior In-house / Corporate Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 56,
+   "url": "https://in.linkedin.com/jobs/view/senior-in-house-recruiter-corporate-recruiter-at-employvision-inc-4472833216",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Senior-marked; posted 3d",
+   "cv": null
+  },
+  {
+   "id": "4455938084",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Amazon",
+   "title": "Executive Search Researcher, Principal Engineer Recruiting",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 56,
+   "url": "https://in.linkedin.com/jobs/view/executive-search-researcher-principal-engineer-recruiting-at-amazon-4455938084",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Researcher-track entry into Amazon; posted 3d",
+   "cv": null
+  },
+  {
+   "id": "4474543028",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Optum India",
+   "title": "US Talent Acquisition Partner",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 54,
+   "url": "https://in.linkedin.com/jobs/view/us-talent-acquisition-partner-at-optum-india-4474543028",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "US-market TA; UnitedHealth Group; posted 3d",
+   "cv": null
+  },
+  {
+   "id": "4474336552",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Heartstream",
+   "title": "HR & Talent Operations Generalist",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 52,
+   "url": "https://in.linkedin.com/jobs/view/hr-talent-operations-generalist-at-heartstream-4474336552",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Generalist+ops mix; posted 3d",
+   "cv": null
+  },
+  {
+   "id": "4472578122",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "RGBSI",
+   "title": "US Recruiter (Talent Acquisition)",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 52,
+   "url": "https://in.linkedin.com/jobs/view/us-recruiter-talent-acquisition-at-rgbsi-4472578122",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "US staffing; posted 3d",
+   "cv": null
+  },
+  {
+   "id": "4456032330",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Everpure",
+   "title": "Technical Recruiter - Everpure Data",
+   "exp_req": "6-10 yrs",
+   "work_mode": "onsite",
+   "score": 48,
+   "url": "https://in.linkedin.com/jobs/view/technical-recruiter-everpure-data-at-everpure-4456032330",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "JD: 6-10 yrs — stretch at 2.7; posted 2d",
+   "cv": null
+  },
+  {
+   "id": "4473885149",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Hyphenate",
+   "title": "Technical Recruiter",
+   "exp_req": "2-4 yrs",
+   "work_mode": "remote",
+   "score": 46,
+   "url": "https://in.linkedin.com/jobs/view/technical-recruiter-at-hyphenate-formerly-maximor-4473885149",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "JD: US startup sourcing track record REQUIRED + 6-day week + late IST — poor fit, CV makes no US claims; remote",
+   "cv": null
+  },
+  {
+   "id": "4472933102",
+   "date_found": "2026-10-05",
+   "portal": "LinkedIn",
+   "company": "Chevron",
+   "title": "Talent Acquisition Specialist (3rd party payroll)",
+   "exp_req": "10+ yrs",
+   "work_mode": "onsite",
+   "score": 40,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-specialist-3rd-party-payroll-at-chevron-4472933102",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "JD: 10+ yrs + 3rd-party payroll — effectively pass; GCC-growth scope interesting only on paper",
    "cv": null
   }
  ]
