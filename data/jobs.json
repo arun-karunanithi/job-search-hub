@@ -4128,6 +4128,102 @@
    "tailored_cv": "",
    "notes": "MANDATORY Mandarin (read/write/speak) + Taiwan-region hiring — pass unless fluent; contract",
    "cv": null
+  },
+  {
+   "id": "4468545364",
+   "date_found": "2026-10-07",
+   "portal": "LinkedIn",
+   "company": "Zamp",
+   "title": "Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 70,
+   "url": "https://in.linkedin.com/jobs/view/recruiter-at-zamp-4468545364",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Fintech infra startup; found in Sep-30 sweep, added 10-07 with tailored CV",
+   "cv": {
+    "headline": "Recruiter | End-to-End Tech & Non-Tech Recruitment | Global Hiring (India, GCC, APAC)",
+    "summary": "Full-cycle Recruiter for technical and non-technical roles — Product, Engineering, IT, SaaS, Marketing, Sales and Manufacturing — across India, GCC and APAC markets. Delivers 12+ offers per month with timely onboarding and measurable results: time-to-hire down 10% and offer-to-join ratio up 15%. Comfortable juggling multiple priorities and stakeholders in fast-moving, scaling environments.",
+    "bullets": {
+     "Aria Holding": [
+      "Own end-to-end recruitment for Marketing, Product, Sales, IT, SaaS, Construction, Engineering & Manufacturing roles across India, GCC, and APAC markets.",
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Adapted quickly to a new industry and global hiring practices while managing multiple stakeholders and competing priorities."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting, and Analytics roles.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement.",
+      "Executed 200+ campus drives across India focused on tech, product, and design hiring; built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles."
+     ]
+    },
+    "skills": [
+     "Recruitment Scope",
+     "Sourcing & Screening",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "Full-Cycle Recruitment",
+     "Technical and Non-Technical Hiring",
+     "ATS",
+     "Recruitment Metrics",
+     "Candidate Pipeline",
+     "Sourcing",
+     "Stakeholder Management",
+     "Onboarding"
+    ]
+   }
+  },
+  {
+   "id": "4469437051",
+   "date_found": "2026-10-07",
+   "portal": "LinkedIn",
+   "company": "Refold AI",
+   "title": "Talent Acquisition Partner",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 68,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-partner-at-refold-ai-4469437051",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "AI startup; found in Sep-30 sweep, added 10-07 with tailored CV",
+   "cv": {
+    "headline": "Talent Acquisition Partner | End-to-End Tech & Non-Tech Recruitment | Global Hiring (India, GCC, APAC)",
+    "summary": "Talent Acquisition Partner with full-life-cycle recruiting experience — sourcing, assessment, offer negotiation and onboarding — across diverse technical and non-technical roles including Product, Engineering, SaaS, Marketing and Sales in India and global markets. Works independently with ATS-based tracking and data-driven hiring improvements: time-to-hire improved 10% and offer-to-join ratio 15%.",
+    "bullets": {
+     "Aria Holding": [
+      "Own end-to-end recruitment for Marketing, Product, Sales, IT, SaaS, Construction, Engineering & Manufacturing roles across India, GCC, and APAC markets.",
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers to finalize requirements and accelerate decisions."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting, and Analytics roles.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement.",
+      "Built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs, executing 200+ campus drives across India."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Tools & Systems",
+     "Recruitment Scope"
+    ],
+    "keywords": [
+     "Full-Life-Cycle Recruiting",
+     "Offer Negotiation",
+     "SaaS Hiring",
+     "Technical and Non-Technical Roles",
+     "ATS",
+     "Hiring Metrics",
+     "Candidate Pipeline",
+     "Stakeholder Partnership"
+    ]
+   }
   }
  ]
 }
