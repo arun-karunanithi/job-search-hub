@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07",
+ "generated": "2026-10-09",
  "jobs": [
   {
    "id": "4471288672",
@@ -4224,6 +4224,66 @@
      "Stakeholder Partnership"
     ]
    }
+  },
+  {
+   "id": "ernest-talent-talent-acquisition-specialist-hr-recruiter",
+   "date_found": "2026-10-09",
+   "portal": "Shine",
+   "company": "Ernest Talent",
+   "title": "Talent Acquisition Specialist (HR Recruiter)",
+   "exp_req": "2-6 yrs",
+   "work_mode": "unknown",
+   "score": 62,
+   "url": "https://www.shine.com/job-search/talent-acquisition-specialist-jobs-in-bangalore",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Sourcing/interviewing/onboarding + LinkedIn per listing; found via Shine category page — verify listing detail before applying",
+   "cv": null
+  },
+  {
+   "id": "cutshort-listing-hr-recruiter-senior-hr-recruiter",
+   "date_found": "2026-10-09",
+   "portal": "Cutshort",
+   "company": "(Cutshort listing)",
+   "title": "HR Recruiter / Senior HR Recruiter",
+   "exp_req": "2+ yrs",
+   "work_mode": "unknown",
+   "score": 58,
+   "url": "https://cutshort.io/jobs/recruitment-talent-acquisition-jobs-in-bangalore-bengaluru",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Sadashivanagar Bangalore, 2+ yrs; Cutshort is login-gated — needs the one-time browser session to see/apply; browse-page entry",
+   "cv": null
+  },
+  {
+   "id": "paytm-talent-acquisition-tech-hiring",
+   "date_found": "2026-10-09",
+   "portal": "Lever",
+   "company": "Paytm",
+   "title": "Talent Acquisition - Tech Hiring",
+   "exp_req": "2-5 yrs",
+   "work_mode": "onsite",
+   "score": 50,
+   "url": "https://jobs.lever.co/paytm/bd3569a5-cc0b-4bf5-9130-2f968da3140d",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "JD is a PERFECT fit (2-5 yrs, volume tech hiring, LinkedIn/Naukri, Excel MIS) BUT located Noida on-site — relocation required; official Lever form (see Fields pop-up → Lever); say the word if Noida is on the table and a tailored CV gets written",
+   "cv": null
+  },
+  {
+   "id": "paytm-talent-acquisition-business-sales-hiring",
+   "date_found": "2026-10-09",
+   "portal": "Lever",
+   "company": "Paytm",
+   "title": "Talent Acquisition - Business & Sales Hiring",
+   "exp_req": "6+ yrs",
+   "work_mode": "onsite",
+   "score": 46,
+   "url": "https://jobs.lever.co/paytm/127fd4e0-1249-42c0-bde4-61dc6fe8df81",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Bangalore on-site; JD: 6+ yrs — stretch at 2.7; sales/bulk hiring itself matches her SkillForge+DeltaX experience; Bangalore natives preferred",
+   "cv": null
   }
  ]
 }
