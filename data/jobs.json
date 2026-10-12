@@ -938,7 +938,43 @@
    "url": "https://in.linkedin.com/jobs/view/recruiter-at-koch-4452586889",
    "status": "New",
    "tailored_cv": "",
-   "notes": "Major industrial conglomerate; posted 1d"
+   "notes": "Major industrial conglomerate; posted 1d",
+   "cv": {
+    "headline": "Technical Recruiter | End-to-End Engineering & Tech Recruitment | Global Hiring (India, GCC, APAC)",
+    "summary": "End-to-end technical recruiter for Engineering & Manufacturing, IT, Product and UI/UX roles across India, GCC and APAC. Uses advanced Boolean and X-Ray search on LinkedIn and Naukri India & Gulf to build active and passive technical pipelines, with all requisitions tracked in ATS (Oorwin, Recruitee). Partners directly with hiring managers across 25+ business units to define requirements and accelerate decisions.",
+    "bullets": {
+     "Aria Holding": [
+      "Own end-to-end hiring for Engineering & Manufacturing, IT, Product and related technical roles across India, GCC and APAC for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries.",
+      "Source active and passive technical candidates via X-Ray/Boolean search, LinkedIn and Naukri India & Gulf, maintaining pipelines in ATS, Recruitee and ClickUp.",
+      "Partner with hiring managers to define role requirements and accelerate decisions, issuing 12+ offer letters every month with timely onboarding."
+     ],
+     "DeltaX": [
+      "Ran full-cycle recruitment for Engineering, Product, UI/UX and Analytics roles, building lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed and IIM Jobs.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement.",
+      "Executed 200+ campus drives across India focused on tech, product and design hiring.",
+      "Managed interview coordination, onboarding and vendor management in Keka HRMS."
+     ],
+     "SkillForge": [
+      "Conducted 500+ interviews across profiles, screening candidates for communication and role fit.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Tools & Systems",
+     "Recruitment Scope"
+    ],
+    "keywords": [
+     "technical recruiting",
+     "engineering recruitment",
+     "Boolean search",
+     "passive sourcing",
+     "ATS",
+     "job boards",
+     "stakeholder management",
+     "manufacturing hiring"
+    ]
+   }
   },
   {
    "id": "4462130092",
@@ -2853,38 +2889,38 @@
    "tailored_cv": "",
    "notes": "Generic end-to-end recruitment, LinkedIn/portals/referrals/headhunting; posted 4h; Devanahalli; 51 applicants",
    "cv": {
-    "headline": "HR Recruiter | End-to-End Recruitment from Sourcing to Selection | LinkedIn, Job Portals & Referrals",
-    "summary": "Recruiter with 2+ years of end-to-end recruitment — sourcing, screening, shortlisting, interviewing and selection — for tech and non-tech profiles. Sources through LinkedIn, Naukri, Instahyre, job portals, referrals and direct headhunting, and has conducted 500+ interviews while issuing 12+ offer letters a month. MSc Applied Psychology (HRD).",
+    "headline": "HR Recruiter | End-to-End Tech & Non-Tech Recruitment | Sourcing, Screening & Interview Coordination",
+    "summary": "HR recruiter owning the full cycle — sourcing, screening, shortlisting, interviewing and selection — for tech and non-tech roles across India and GCC. Sources via LinkedIn, Naukri India & Gulf and X-Ray search, coordinates interviews between candidates and hiring managers, and has conducted 500+ interviews across profiles. Issues 12+ offers monthly with onboarding support.",
     "bullets": {
      "Aria Holding": [
-      "Own end-to-end recruitment for Marketing, Product, Sales, IT, SaaS, Construction, Engineering & Manufacturing roles across India, GCC, and APAC markets.",
-      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
-      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers to finalize requirements."
+      "Own end-to-end recruitment — sourcing, screening, shortlisting, interviewing and selection — for Marketing, Product, Sales, IT, Construction, Engineering & Manufacturing roles across India, GCC and APAC.",
+      "Source candidates via LinkedIn, Naukri India & Gulf and X-Ray search; coordinate interviews and hiring-manager communication, issuing 12+ offer letters monthly with timely onboarding.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries."
      ],
      "DeltaX": [
-      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting, and Analytics roles.",
-      "Executed 200+ campus drives across India focused on tech, product, and design hiring; built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs.",
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting and Analytics roles.",
+      "Built pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed and IIM Jobs; executed 200+ campus drives across India.",
       "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement."
      ],
      "SkillForge": [
-      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles.",
+      "Conducted 500+ interviews across profiles and recruited 30+ Business Development / Inside Sales candidates.",
       "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction (LinkedIn, Internshala)."
      ]
     },
     "skills": [
      "Sourcing & Screening",
-     "Recruitment Scope",
-     "Tools & Systems"
+     "Tools & Systems",
+     "Recruitment Scope"
     ],
     "keywords": [
-     "End-to-end recruitment",
-     "Sourcing",
-     "Screening",
-     "Shortlisting",
-     "Interviewing",
+     "end-to-end recruitment",
+     "sourcing",
+     "screening",
+     "shortlisting",
+     "interviewing",
      "LinkedIn",
-     "Job portals",
-     "Headhunting"
+     "job portals",
+     "interview coordination"
     ]
    }
   },
@@ -3291,7 +3327,41 @@
    "status": "New",
    "tailored_cv": "",
    "notes": "Volume tele-sales hiring ≈ her SkillForge BD/inside-sales recruiting + 500+ interviews; tailoring deferred to next sweep",
-   "cv": null
+   "cv": {
+    "headline": "HR Recruiter | Volume & Bulk Hiring | Inside Sales, Fresher & Multi-Role Recruitment",
+    "summary": "Recruiter with high-volume hiring experience across laterals and freshers — 200+ campus drives executed and 500+ interviews conducted, including 30+ Business Development / Inside Sales hires. Sources at scale via Naukri, LinkedIn and Indeed, maintains hiring trackers in MS Excel and Google Workspace, and follows candidates from offer through to joining, improving offer-to-join ratio by 15%.",
+    "bullets": {
+     "Aria Holding": [
+      "Manage high-volume, multi-role hiring across India, GCC and APAC — Marketing, Product, Sales, IT, Construction, Engineering & Manufacturing — issuing 12+ offer letters every month with timely onboarding.",
+      "Track every requirement and candidate pipeline in ATS, ClickUp and Recruitee, following offered candidates through to joining.",
+      "Source at scale via Naukri India & Gulf, LinkedIn and X-Ray search for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries."
+     ],
+     "DeltaX": [
+      "Executed 200+ campus drives across India focused on tech, product and design hiring — high-volume fresher recruitment at pace.",
+      "Improved offer-to-join ratio by 15% and time-to-hire by 10% through structured engagement and follow-up with offered candidates until joining.",
+      "Screened and coordinated high volumes of candidates across Product, Engineering, Marketing & Sales, Accounting and Analytics roles, managing coordination and onboarding in Keka HRMS."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles — phone screening at scale.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction."
+     ]
+    },
+    "skills": [
+     "Recruitment Scope",
+     "Sourcing & Screening",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "bulk hiring",
+     "volume hiring",
+     "inside sales hiring",
+     "campus drives",
+     "Naukri",
+     "Indeed",
+     "phone screening",
+     "hiring tracker"
+    ]
+   }
   },
   {
    "id": "4474735394",
@@ -3639,7 +3709,43 @@
    "status": "New",
    "tailored_cv": "",
    "notes": "Posted 20h; tailoring deferred",
-   "cv": null
+   "cv": {
+    "headline": "Recruitment Specialist | End-to-End Tech & Non-Tech Recruitment | Construction, Engineering & Corporate Hiring (India, GCC)",
+    "summary": "Recruitment specialist owning end-to-end hiring cycles for Marketing, Product, Sales, IT, Construction, Engineering & Manufacturing roles across India and GCC markets. Partners closely with hiring managers to finalize requirements, manages multiple open roles simultaneously, and issues 12+ offer letters every month with timely onboarding. Hands-on with ATS, Recruitee, ClickUp, Naukri India & Gulf and LinkedIn for sourcing, tracking and HR coordination.",
+    "bullets": {
+     "Aria Holding": [
+      "Own end-to-end recruitment cycles for Construction, Engineering & Manufacturing, Marketing, Product, Sales and IT roles across India and GCC, partnering with hiring managers to finalize requirements and accelerate decisions.",
+      "Issue 12+ offer letters every month with timely onboarding, tracking candidates and open roles in ATS, ClickUp and Recruitee while sourcing via Naukri India & Gulf and LinkedIn.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, handling multiple open positions and stakeholders at once.",
+      "Adapted quickly to new industries and hiring practices while managing multiple stakeholders across regions."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Marketing, Growth & Sales, Product, Engineering, UI/UX, Accounting and Analytics roles.",
+      "Managed HRMS (Keka), interview coordination, onboarding and vendor management alongside core admin operations.",
+      "Improved offer-to-join ratio by 15% and time-to-hire by 10% through structured candidate engagement.",
+      "Built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed and IIM Jobs."
+     ],
+     "SkillForge": [
+      "Managed end-to-end onboarding and induction for new hires (LinkedIn, Internshala).",
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Tools & Systems",
+     "Recruitment Scope"
+    ],
+    "keywords": [
+     "end-to-end recruitment",
+     "sourcing and screening",
+     "hiring manager collaboration",
+     "onboarding",
+     "ATS",
+     "construction and engineering hiring",
+     "multiple open roles",
+     "HR operations"
+    ]
+   }
   },
   {
    "id": "4474693248",
@@ -3703,7 +3809,42 @@
    "status": "New",
    "tailored_cv": "",
    "notes": "Sales/GTM recruiting = her SkillForge + DeltaX Growth&Sales strength; posted 20h; deferred",
-   "cv": null
+   "cv": {
+    "headline": "Sales Recruiter | Full-Cycle Sales, Growth & Tech Recruitment | Offer Negotiation & Candidate Engagement (India, GCC, APAC)",
+    "summary": "Full-cycle recruiter with direct hiring for Sales, Growth & Marketing, Product and IT roles across India, GCC and APAC. Builds candidate pipelines through LinkedIn sourcing, Naukri and referrals, manages offers through negotiation to joining, and improved offer-to-join ratio by 15% through structured candidate engagement. Tracks every requisition in ATS with high attention to candidate experience.",
+    "bullets": {
+     "Aria Holding": [
+      "Recruit for Sales, Marketing, Product and IT roles across India, GCC and APAC, owning the full cycle from requirement definition with hiring managers through offer, negotiation and onboarding.",
+      "Issue 12+ offer letters every month with timely onboarding, managing candidates from first outreach to joining via ATS, ClickUp and Recruitee.",
+      "Build pipelines through direct sourcing on LinkedIn, Naukri India & Gulf and X-Ray search for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries."
+     ],
+     "DeltaX": [
+      "Owned full-cycle recruitment for Growth & Sales, Marketing, Product and Analytics roles — sourcing, screening, offer management and onboarding.",
+      "Improved offer-to-join ratio by 15% and time-to-hire by 10% through structured candidate engagement, acting as the candidate's single point of contact through the process.",
+      "Built active pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed and IIM Jobs, including referral-driven sourcing.",
+      "Managed interview coordination, onboarding and vendor management in Keka HRMS alongside core admin operations."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles, building depth in sales-profile screening.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction."
+     ]
+    },
+    "skills": [
+     "Recruitment Scope",
+     "Sourcing & Screening",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "full-cycle recruiting",
+     "sales recruiting",
+     "candidate pipeline",
+     "offer negotiation",
+     "candidate experience",
+     "ATS",
+     "stakeholder management",
+     "inside sales hiring"
+    ]
+   }
   },
   {
    "id": "4474646663",
@@ -3718,7 +3859,43 @@
    "status": "New",
    "tailored_cv": "",
    "notes": "Posted 1d; deferred",
-   "cv": null
+   "cv": {
+    "headline": "Talent Partner | End-to-End Tech & Non-Tech Recruitment | International Hiring (India, GCC, APAC)",
+    "summary": "Talent partner owning end-to-end, multi-function hiring across India, GCC and APAC markets. Engages candidates through direct sourcing and headhunting — X-Ray/Boolean search, LinkedIn, Naukri India & Gulf — and maintains talent pipelines in ATS, Recruitee and ClickUp. Partners with hiring managers across 25+ business units to deliver 12+ offers a month with timely onboarding.",
+    "bullets": {
+     "Aria Holding": [
+      "Partner with hiring managers across India, GCC and APAC to plan and deliver end-to-end hiring for Marketing, Product, Sales, IT, Construction, Engineering & Manufacturing roles.",
+      "Headhunt and engage candidates through direct sourcing — X-Ray/Boolean search, LinkedIn, Naukri India & Gulf — maintaining active talent pipelines in ATS, Recruitee and ClickUp.",
+      "Issue 12+ offer letters monthly with timely onboarding across Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries.",
+      "Manage multiple global stakeholders, adapting quickly to new industries and international hiring practices."
+     ],
+     "DeltaX": [
+      "Managed the full recruitment lifecycle for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting and Analytics roles, partnering with hiring managers on requirements.",
+      "Built active and passive candidate pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed and IIM Jobs.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement.",
+      "Managed HRMS (Keka), interview coordination, onboarding and vendor management alongside core admin operations."
+     ],
+     "SkillForge": [
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction.",
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles."
+     ]
+    },
+    "skills": [
+     "Recruitment Scope",
+     "Sourcing & Screening",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "talent acquisition",
+     "international hiring",
+     "end-to-end recruitment",
+     "headhunting",
+     "talent pipelines",
+     "stakeholder management",
+     "ATS",
+     "onboarding"
+    ]
+   }
   },
   {
    "id": "4471411687",
@@ -3797,7 +3974,42 @@
    "status": "New",
    "tailored_cv": "",
    "notes": "Small architecture firm; posted 13h",
-   "cv": null
+   "cv": {
+    "headline": "Talent Acquisition Associate | End-to-End Tech & Non-Tech Recruitment | Sourcing, Screening & Interview Coordination",
+    "summary": "Talent acquisition professional with full-cycle hiring experience across tech and non-tech roles in India and GCC. Sources via LinkedIn Recruiter Lite, Naukri and Instahyre, conducts first-round screening interviews (500+ to date), and maintains ATS records and trackers throughout. Partners with hiring managers on role requirements and keeps candidates engaged from first contact to onboarding.",
+    "bullets": {
+     "Aria Holding": [
+      "Own full-cycle hiring — sourcing, CV screening, first-round interviews, coordination, offers and onboarding — for Marketing, Product, Sales, IT, Construction, Engineering & Manufacturing roles across India, GCC and APAC.",
+      "Maintain candidate pipelines and records in ATS, Recruitee and ClickUp; keep candidates informed and engaged through to joining, with 12+ offer letters issued monthly.",
+      "Partner with hiring managers to finalize role requirements across Alutec, Cetula, Alumac, BIMTEC and 25+ subsidiaries."
+     ],
+     "DeltaX": [
+      "Ran sourcing, screening, scheduling and onboarding for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting and Analytics roles.",
+      "Sourced candidates via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed and IIM Jobs.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement.",
+      "Maintained ATS/HRMS records in Keka with interview coordination, onboarding and vendor management."
+     ],
+     "SkillForge": [
+      "Conducted 500+ interviews across profiles; recruited 30+ Business Development / Inside Sales candidates.",
+      "Managed end-to-end onboarding and induction for new hires (LinkedIn, Internshala)."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Tools & Systems",
+     "Recruitment Scope"
+    ],
+    "keywords": [
+     "talent acquisition",
+     "LinkedIn Recruiter Lite",
+     "job boards",
+     "CV screening",
+     "interview coordination",
+     "ATS",
+     "onboarding",
+     "time-to-hire"
+    ]
+   }
   },
   {
    "id": "4474239785",
@@ -3812,7 +4024,42 @@
    "status": "New",
    "tailored_cv": "",
    "notes": "Analytics unicorn; senior-associate band; posted 1d",
-   "cv": null
+   "cv": {
+    "headline": "Talent Acquisition Specialist | End-to-End Tech & Analytics Recruitment | Global Hiring (India, GCC, APAC)",
+    "summary": "Technical recruiter with full-lifecycle hiring for Engineering, Product, Analytics and UI/UX roles. Builds active and passive technical pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre and Hirist, negotiates and manages offers through to joining, and improved time-to-hire by 10% and offer-to-join ratio by 15%. Tracks requisitions end-to-end in ATS (Oorwin, Recruitee) in close partnership with hiring managers.",
+    "bullets": {
+     "Aria Holding": [
+      "Own end-to-end technical and non-technical hiring across India, GCC and APAC — including IT, Product, and Engineering & Manufacturing roles — for 25+ Aria Holding subsidiaries.",
+      "Build and maintain candidate pipelines via X-Ray/Boolean search, LinkedIn and Naukri India & Gulf, tracking all requisitions in ATS (Recruitee) and ClickUp.",
+      "Negotiate and issue 12+ offer letters every month, managing candidates from offer through onboarding while partnering with hiring managers on role requirements."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle for Product, Engineering, UI/UX and Analytics roles — sourcing, screening, offer management and onboarding.",
+      "Built lateral pipelines of active and passive technical talent via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed and IIM Jobs; executed 200+ campus drives for tech, product and design hiring.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement.",
+      "Maintained ATS and hiring operations in Keka HRMS with interview coordination, onboarding and vendor management."
+     ],
+     "SkillForge": [
+      "Conducted 500+ interviews across profiles, building screening rigor for technical and non-technical candidates.",
+      "Recruited 30+ Business Development / Inside Sales candidates; led campus drives and hiring presentations across India."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Tools & Systems",
+     "Recruitment Scope"
+    ],
+    "keywords": [
+     "technical recruitment",
+     "analytics hiring",
+     "LinkedIn Recruiter Lite",
+     "Naukri",
+     "ATS",
+     "offer negotiation",
+     "offer-to-join ratio",
+     "passive sourcing"
+    ]
+   }
   },
   {
    "id": "4474024989",
