@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12",
+ "generated": "2026-10-13",
  "jobs": [
   {
    "id": "4471288672",
@@ -4977,6 +4977,146 @@
    "status": "New",
    "tailored_cv": "",
    "notes": "JD: 5+ yrs exec-search/management-consulting research + manufacturing/semiconductor REQUIRED — stretch on both; contract",
+   "cv": null
+  },
+  {
+   "id": "4477533022",
+   "date_found": "2026-10-13",
+   "portal": "LinkedIn",
+   "company": "Zee labs (Zarvonis Ventures)",
+   "title": "Talent Acquisition Specialist",
+   "exp_req": "2-4 yrs",
+   "work_mode": "onsite",
+   "score": 86,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-specialist-at-zee-labs-4477533022",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "JD: 2-4 yrs, LinkedIn/Naukri, KEKA HR explicitly (her exact HRMS!), daily 3-5 interview pipeline, 80% TA + 20% HR ops; HSR Layout onsite; posted 17h",
+   "cv": {
+    "headline": "Talent Acquisition Specialist | End-to-End Recruitment with Daily Interview Pipelines & Closures | Keka HR",
+    "summary": "End-to-end recruiter with 2+ years covering sourcing through onboarding and joining follow-ups — via LinkedIn, Naukri, referrals and job portals — maintaining steady interview pipelines (500+ interviews conducted) and closing 12+ offers a month with tracked conversions. Hands-on with Keka HRMS for onboarding coordination and HR records; improved offer-to-join ratio by 15% and time-to-hire by 10%. MSc Applied Psychology (HRD).",
+    "bullets": {
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting, and Analytics roles.",
+      "Managed HRMS (Keka), interview coordination, onboarding, and vendor management alongside core admin operations.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement and follow-ups.",
+      "Built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs."
+     ],
+     "Aria Holding": [
+      "Own end-to-end recruitment for Marketing, Product, Sales, IT, SaaS, Construction, Engineering & Manufacturing roles across India, GCC, and APAC markets.",
+      "Issue 12+ offer letters every month with timely onboarding and joining follow-ups, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers on requirements and targets."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction (LinkedIn, Internshala)."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Tools & Systems",
+     "Recruitment Scope"
+    ],
+    "keywords": [
+     "End-to-end recruitment",
+     "Naukri",
+     "LinkedIn",
+     "Keka HR",
+     "Interview pipeline",
+     "Offer negotiation",
+     "Joining follow-ups",
+     "HR operations"
+    ]
+   }
+  },
+  {
+   "id": "4475194775",
+   "date_found": "2026-10-13",
+   "portal": "LinkedIn",
+   "company": "Michael Page (Enterprise Solutions)",
+   "title": "Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 66,
+   "url": "https://in.linkedin.com/jobs/view/recruiter-at-enterprise-solutions-from-michael-page-4475194775",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Agency-side recruiter at a major global brand; posted 5d; deferred",
+   "cv": null
+  },
+  {
+   "id": "4475829921",
+   "date_found": "2026-10-13",
+   "portal": "LinkedIn",
+   "company": "A&O Corsaire",
+   "title": "Talent Partner",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 62,
+   "url": "https://in.linkedin.com/jobs/view/talent-partner-at-a-o-corsaire-4475829921",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Sister entity of A&O IT Group (already tracked separately); posted 1wk",
+   "cv": null
+  },
+  {
+   "id": "4473834977",
+   "date_found": "2026-10-13",
+   "portal": "LinkedIn",
+   "company": "InnovKaro Solutions",
+   "title": "Mass Hiring / Recruitment Executive",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 60,
+   "url": "https://in.linkedin.com/jobs/view/mass-hiring-recruitment-executive-at-innovkaro-solutions-4473834977",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Volume hiring = her campus-drive strength; small shop; posted 1wk",
+   "cv": null
+  },
+  {
+   "id": "4473854232",
+   "date_found": "2026-10-13",
+   "portal": "LinkedIn",
+   "company": "InnovKaro Solutions",
+   "title": "HR Recruiter (Full Time)",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 58,
+   "url": "https://in.linkedin.com/jobs/view/hr-recruiter-full-time-at-innovkaro-solutions-4473854232",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Posted 1wk",
+   "cv": null
+  },
+  {
+   "id": "4478392124",
+   "date_found": "2026-10-13",
+   "portal": "LinkedIn",
+   "company": "Cushman & Wakefield",
+   "title": "Senior Talent Acquisition Advisor",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 58,
+   "url": "https://in.linkedin.com/jobs/view/senior-talent-acquisition-advisor-at-cushman-wakefield-4478392124",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Senior-marked; real-estate services MNC; posted 21h",
+   "cv": null
+  },
+  {
+   "id": "4477919561",
+   "date_found": "2026-10-13",
+   "portal": "LinkedIn",
+   "company": "Xometry",
+   "title": "Corporate Recruiter",
+   "exp_req": "5+ yrs",
+   "work_mode": "onsite",
+   "score": 40,
+   "url": "https://in.linkedin.com/jobs/view/corporate-recruiter-at-xometry-4477919561",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Triple blocker: 5+ yrs AND US-specific recruiting required AND 6:30PM-3:30AM night shift — pass; posted 7h",
    "cv": null
   }
  ]
