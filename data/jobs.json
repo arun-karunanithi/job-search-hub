@@ -5397,6 +5397,56 @@
    "tailored_cv": "",
    "notes": "Triple blocker: 5+ yrs AND US-specific recruiting required AND 6:30PM-3:30AM night shift — pass; posted 7h",
    "cv": null
+  },
+  {
+   "id": "4476270730",
+   "date_found": "2026-10-13",
+   "portal": "LinkedIn",
+   "company": "Photon",
+   "title": "Talent Acquisition Specialist",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 72,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-specialist-at-photon-4476270730",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Recovered: dedupe key had collapsed this into Photon's TA Executive req (fixed 2026-10-13); added with tailored CV",
+   "cv": {
+    "headline": "Talent Acquisition Specialist | End-to-End Technical & Non-Tech Recruitment | Global Hiring (India, GCC, APAC)",
+    "summary": "Talent Acquisition Specialist with end-to-end experience hiring for Engineering, Product, IT and SaaS roles across India, GCC and APAC. Strong multi-channel technical sourcing on LinkedIn, Naukri and X-Ray/Boolean search, combining lateral pipeline building with 200+ campus drives. Improves time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement and stakeholder management.",
+    "bullets": {
+     "Aria Holding": [
+      "Own end-to-end recruitment for IT, SaaS, Product and Engineering roles alongside Marketing, Sales, Construction and Manufacturing hiring across India, GCC, and APAC markets.",
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Partner with hiring managers across Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries to finalize requirements and accelerate hiring decisions."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting, and Analytics roles.",
+      "Executed 200+ campus drives across India focused on tech, product, and design hiring; built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement.",
+      "Managed HRMS (Keka), interview coordination, onboarding, and vendor management alongside core admin operations."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction (LinkedIn, Internshala)."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Recruitment Scope",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "technical recruitment",
+     "Boolean search",
+     "Naukri",
+     "LinkedIn",
+     "X-Ray search",
+     "stakeholder management",
+     "offer-to-join ratio",
+     "time-to-hire"
+    ]
+   }
   }
  ]
 }
