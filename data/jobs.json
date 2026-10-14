@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13",
+ "generated": "2026-10-14",
  "jobs": [
   {
    "id": "4471288672",
@@ -5447,6 +5447,359 @@
      "time-to-hire"
     ]
    }
+  },
+  {
+   "id": "4476425910",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Accorian",
+   "title": "Talent Acquisition Specialist",
+   "exp_req": "1-5 yrs",
+   "work_mode": "unknown",
+   "score": 84,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-specialist-at-accorian-4476425910",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "JD must-have #2 is literally 'Boolean searches, X-ray search' — her exact sourcing stack; full-cycle + metrics; posted 14h; 200+ applicants",
+   "cv": {
+    "headline": "Talent Acquisition Specialist | Boolean & X-Ray Sourcing Specialist | End-to-End Recruitment (India, GCC, APAC)",
+    "summary": "Full-cycle recruiter with 2+ years of end-to-end hiring across business verticals, built on extensive Boolean and X-Ray search sourcing across LinkedIn, job portals, niche forums and direct outreach. Screens for skills, compensation and notice-period fit, tracks pipeline metrics (submissions, conversions, drop-offs, time-to-fill) in ATS, and maintains market awareness across talent pools. Issues 12+ offer letters a month; MSc Applied Psychology (HRD).",
+    "bullets": {
+     "Aria Holding": [
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search for sourcing and tracking.",
+      "Own end-to-end recruitment for Marketing, Product, Sales, IT, SaaS, Construction, Engineering & Manufacturing roles across India, GCC, and APAC markets — active and passive sourcing.",
+      "Deliver hiring for Alutec, Cetula, Alumac, BIMTEC and 25+ Aria Holding subsidiaries, partnering with hiring managers on requirements, shortlists and timelines."
+     ],
+     "DeltaX": [
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting, and Analytics roles.",
+      "Built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs, sourcing active and passive candidates.",
+      "Improved time-to-hire by 10% and offer-to-join ratio by 15% through structured candidate engagement — metrics she reported end-to-end."
+     ],
+     "SkillForge": [
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles.",
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction (LinkedIn, Internshala)."
+     ]
+    },
+    "skills": [
+     "Sourcing & Screening",
+     "Recruitment Scope",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "Boolean search",
+     "X-Ray search",
+     "Full-cycle recruitment",
+     "Passive sourcing",
+     "Pipeline metrics",
+     "Time-to-fill",
+     "Job portals",
+     "Direct outreach"
+    ]
+   }
+  },
+  {
+   "id": "4477515195",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "RemoteEngine",
+   "title": "Campus Talent Acquisition Specialist",
+   "exp_req": "3-6 yrs",
+   "work_mode": "hybrid",
+   "score": 80,
+   "url": "https://in.linkedin.com/jobs/view/campus-talent-acquisition-specialist-at-remoteengine-4477515195",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "CAMPUS role: university relations, intern programs, offer-to-join tracking (her improved metric!); band 3-6 yrs slightly above 2.7 but campus is her superpower; hybrid; JD names VisioGen as hiring entity; posted 1d",
+   "cv": {
+    "headline": "Campus Talent Acquisition Specialist | 200+ Campus Drives & University Relations | Early-Careers Pipeline Builder",
+    "summary": "Campus-recruitment specialist with 2+ years executing early-careers hiring at scale — 200+ campus drives across India for tech, product and design profiles, with relationships across universities and placement cells. Runs the full campus cycle from sourcing and screening through interviews, offers and joining, and tracks the same metrics the role owns: offer-to-join ratio (improved by 15%) and time-to-hire (improved by 10%). Manages induction and onboarding for entry-level cohorts; MSc Applied Psychology (HRD).",
+    "bullets": {
+     "DeltaX": [
+      "Executed 200+ campus drives across India focused on tech, product, and design hiring — sourcing, screening, interviews, selection and offer coordination with placement cells.",
+      "Improved offer-to-join ratio by 15% and time-to-hire by 10% through structured candidate engagement from offer through joining.",
+      "Built lateral pipelines via LinkedIn Recruiter Lite, Naukri, Instahyre, Hirist, Indeed, and IIM Jobs alongside the campus engine."
+     ],
+     "SkillForge": [
+      "Led campus drives and hiring presentations across India; managed end-to-end onboarding and induction for new hires (LinkedIn, Internshala).",
+      "Recruited 30+ Business Development / Inside Sales candidates and conducted 500+ interviews across profiles."
+     ],
+     "Aria Holding": [
+      "Own end-to-end recruitment across India, GCC, and APAC markets including fresher and lateral hiring for 25+ subsidiaries.",
+      "Issue 12+ offer letters every month with timely onboarding, using ATS, ClickUp, Naukri India & Gulf, LinkedIn, Recruitee, and X-Ray search.",
+      "Partner with hiring managers and stakeholders on workforce needs, requirements and timelines."
+     ]
+    },
+    "skills": [
+     "Recruitment Scope",
+     "Sourcing & Screening",
+     "Tools & Systems"
+    ],
+    "keywords": [
+     "Campus hiring",
+     "University relations",
+     "Placement cells",
+     "Internship programs",
+     "Early careers",
+     "Offer-to-join ratio",
+     "Employer branding",
+     "Entry-level pipelines"
+    ]
+   }
+  },
+  {
+   "id": "4477965858",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Ditto Insurance",
+   "title": "Sourcing Specialist",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 74,
+   "url": "https://in.linkedin.com/jobs/view/sourcing-specialist-at-ditto-insurance-4477965858",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Sourcing role at well-known insurtech (Zerodha-backed); JD fetch rate-limited — tailoring deferred to next sweep; posted 20h",
+   "cv": null
+  },
+  {
+   "id": "4477471153",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Accenture in India",
+   "title": "Candidate Source & Screen Specialist",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 72,
+   "url": "https://in.linkedin.com/jobs/view/candidate-source-screen-specialist-at-accenture-in-india-4477471153",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Sourcing+screening specialist role — her card; posted 11h; deferred",
+   "cv": null
+  },
+  {
+   "id": "4476095428",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Primetrace",
+   "title": "TA Specialist",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 70,
+   "url": "https://in.linkedin.com/jobs/view/ta-specialist-at-primetrace-4476095428",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Posted 20h; deferred",
+   "cv": null
+  },
+  {
+   "id": "4479235726",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Wabtec",
+   "title": "Talent Acquisition Partner",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 70,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-partner-at-wabtec-corporation-4479235726",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "New generalist TA Partner req (separate from University Relations role already tracked); posted 2h",
+   "cv": null
+  },
+  {
+   "id": "4476447418",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "VySystems",
+   "title": "Technical Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 70,
+   "url": "https://in.linkedin.com/jobs/view/technical-recruiter-at-vysystems-4476447418",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Posted 13h; deferred",
+   "cv": null
+  },
+  {
+   "id": "4475410398",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "JobShop.ai",
+   "title": "Recruitment Specialist",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 68,
+   "url": "https://in.linkedin.com/jobs/view/recruitment-specialist-at-jobshop-ai-4475410398",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Posted 22h; also has a Coordinator req",
+   "cv": null
+  },
+  {
+   "id": "4478789425",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "ExxonMobil",
+   "title": "Regional Talent Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 64,
+   "url": "https://in.linkedin.com/jobs/view/regional-talent-recruiter-at-exxonmobil-india-careers-4478789425",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Major energy MNC; JD fetch rate-limited — deferred; posted 16h",
+   "cv": null
+  },
+  {
+   "id": "4467764304",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Availity",
+   "title": "Talent Associate",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 64,
+   "url": "https://in.linkedin.com/jobs/view/talent-associate-at-availity-4467764304",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "US healthcare tech co, India entity; posted 1d",
+   "cv": null
+  },
+  {
+   "id": "4479032113",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "ANSR",
+   "title": "Associate Talent Scout",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 64,
+   "url": "https://in.linkedin.com/jobs/view/associate-talent-scout-t500-30101-at-ansr-4479032113",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "GCC enabler (their TA Consulting/Sr roles already tracked); associate band; posted 14h",
+   "cv": null
+  },
+  {
+   "id": "4424547813",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Everpure",
+   "title": "Talent Acquisition Sourcer",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 62,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-sourcer-at-everpure-4424547813",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Sourcer track (separate from their 6-10yr Tech Recruiter req); posted 1d",
+   "cv": null
+  },
+  {
+   "id": "4477505446",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "OVHcloud",
+   "title": "Hiring Officer - APAC",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 62,
+   "url": "https://in.linkedin.com/jobs/view/hiring-officer-apac-at-ovhcloud-4477505446",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "APAC hiring for European cloud co; posted 1d",
+   "cv": null
+  },
+  {
+   "id": "4475695951",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Anson McCade",
+   "title": "Technology Recruitment Consultant",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 62,
+   "url": "https://in.linkedin.com/jobs/view/technology-recruitment-consultant-at-anson-mccade-4475695951",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "UK tech-recruitment consultancy; posted 1d",
+   "cv": null
+  },
+  {
+   "id": "4478791219",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Testsigma",
+   "title": "Talent Acquisition Specialist",
+   "exp_req": "4+ yrs",
+   "work_mode": "unknown",
+   "score": 58,
+   "url": "https://in.linkedin.com/jobs/view/talent-acquisition-specialist-at-testsigma-4478791219",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "JD: 4+ yrs minimum + MANDATORY AI hiring tools (copilots, ChatGPT/Claude 'not optional') + labor-legislation knowledge — band & tool gaps; posted 17h",
+   "cv": null
+  },
+  {
+   "id": "4478398415",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Egis",
+   "title": "Senior Talent Acquisition Partner",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 58,
+   "url": "https://in.linkedin.com/jobs/view/senior-talent-acquisition-partner-at-egis-4478398415",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Senior-marked; engineering consulting; posted 1d",
+   "cv": null
+  },
+  {
+   "id": "4433557331",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Skillz",
+   "title": "Senior Recruiter",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 56,
+   "url": "https://in.linkedin.com/jobs/view/senior-recruiter-at-skillz-4433557331",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Senior-marked; mobile gaming; posted 9h",
+   "cv": null
+  },
+  {
+   "id": "4455013821",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Quantiphi",
+   "title": "Senior Partner - University Relations",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 56,
+   "url": "https://in.linkedin.com/jobs/view/senior-partner-university-relations-at-quantiphi-4455013821",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Campus angle but senior-partner level; posted 17h",
+   "cv": null
+  },
+  {
+   "id": "4478518479",
+   "date_found": "2026-10-14",
+   "portal": "LinkedIn",
+   "company": "Clean Harbors",
+   "title": "Associate - US Recruiting",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 50,
+   "url": "https://in.linkedin.com/jobs/view/associate-us-recruiting-at-clean-harbors-4478518479",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "US recruiting, associate band (separate req from their Senior Associate); posted 1d",
+   "cv": null
   }
  ]
 }
