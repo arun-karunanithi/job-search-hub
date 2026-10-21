@@ -6749,6 +6749,57 @@
    "tailored_cv": "",
    "notes": "JD: 5+ yrs tech TA (Engineering/Data/Cloud/Cyber/AI-ML), contract — band gap at 2.7 yrs; big-brand stretch only",
    "cv": null
+  },
+  {
+   "id": "4475409588",
+   "date_found": "2026-10-21",
+   "portal": "LinkedIn",
+   "company": "JobShop.ai",
+   "title": "Recruitment Coordinator",
+   "exp_req": "",
+   "work_mode": "unknown",
+   "score": 60,
+   "url": "https://in.linkedin.com/jobs/view/recruitment-coordinator-at-jobshop-ai-4475409588",
+   "status": "New",
+   "tailored_cv": "",
+   "notes": "Recovered: req existed alongside JobShop's Specialist role but wasn't tracked (added 2026-10-21 with tailored CV); posted Oct 14",
+   "cv": {
+    "headline": "Recruitment Coordinator | End-to-End Tech & Non-Tech Recruitment | Scheduling, Tracking & Onboarding (India, GCC & APAC)",
+    "summary": "Recruitment professional skilled in interview coordination, candidate follow-up and onboarding across India, GCC and APAC hiring. Improved offer-to-join ratio by 15% through structured candidate engagement and now issues 12+ offer letters every month with timely onboarding. Maintains candidate databases and recruitment trackers in ATS, HRMS (Keka), ClickUp and MS Excel, supporting 200+ campus drives and high interview volumes.",
+    "bullets": {
+     "Aria Holding": [
+      "Issue 12+ offer letters every month with timely onboarding, tracking candidates from offer through to joining.",
+      "Partner with hiring managers to finalize requirements and accelerate decisions across 25+ Aria Holding subsidiaries, including Alutec, Cetula, Alumac and BIMTEC.",
+      "Own end-to-end recruitment for Marketing, Product, Sales, IT, SaaS, Construction, Engineering & Manufacturing roles across India, GCC, and APAC markets.",
+      "Maintain candidate records and pipeline tracking in ATS, ClickUp and Recruitee, sourcing via Naukri India & Gulf, LinkedIn and X-Ray search."
+     ],
+     "DeltaX": [
+      "Managed HRMS (Keka), interview coordination, onboarding, and vendor management alongside core admin operations.",
+      "Improved offer-to-join ratio by 15% and time-to-hire by 10% through structured candidate engagement.",
+      "Executed 200+ campus drives across India, coordinating high volumes of interviews for tech, product, and design hiring.",
+      "Managed the complete recruitment lifecycle — sourcing, screening, scheduling, onboarding — for Product, Engineering, UI/UX, Marketing, Growth & Sales, Accounting, and Analytics roles."
+     ],
+     "SkillForge": [
+      "Managed end-to-end onboarding and induction for new hires (LinkedIn, Internshala) while leading campus drives and hiring presentations across India.",
+      "Conducted 500+ interviews across profiles, recruiting 30+ Business Development / Inside Sales candidates."
+     ]
+    },
+    "skills": [
+     "Tools & Systems",
+     "Recruitment Scope",
+     "Sourcing & Screening"
+    ],
+    "keywords": [
+     "interview scheduling",
+     "candidate follow-up",
+     "recruitment trackers",
+     "candidate databases",
+     "MS Excel",
+     "onboarding",
+     "offer-to-join ratio",
+     "campus drives"
+    ]
+   }
   }
  ]
 }
